@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>演劇デイリーダイジェスト</title>
+    <link>https://tytydy-cyber.github.io/daily-podcast</link>
+    <language>ja</language>
+    <description>NotebookLMで自動生成した演劇の毎朝ニュースダイジェスト</description>
+    <itunes:author>Matsuda</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 08 Aug 2026 06:18:16 +0900</lastBuildDate>
+    <item>
+      <title>演劇ダイジェスト 2026-08-02</title>
+      <description>収録記事: 『プリズムの窓』2026/08/19(水)～2026/08/23(日) | チケット GETTIIS、ハイワイヤ 第三回公演『GOOD NEIGHBORS』、下北沢 OFF・OFFシアターで上演 | Cube ニュース、民意とはなにかを問い直す、劇団ハイワイヤ『GOOD NEIGHBORS』2026年8月上演 | Koubo、とある地域社会の軋轢をもとに民意とはなにかを今一度問い直す、演劇団体「ハイワイヤ」新作公演『GOOD NEIGHBORS』ビジュアル＆出演者解禁 | anemo（アネモ）、映画を撮りたいゾンビの演劇 | 東京芸術劇場</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/theater/2026-08-02.m4a" length="29370805" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/theater/2026-08-02.m4a</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

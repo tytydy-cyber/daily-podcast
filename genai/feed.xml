@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>生成AIデイリーダイジェスト</title>
+    <link>https://tytydy-cyber.github.io/daily-podcast</link>
+    <language>ja</language>
+    <description>NotebookLMで自動生成した生成AIの毎朝ニュースダイジェスト</description>
+    <itunes:author>Matsuda</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 08 Aug 2026 06:18:16 +0900</lastBuildDate>
+    <item>
+      <title>生成AIダイジェスト 2026-08-08</title>
+      <description>収録記事: 生成AIニュース 昨日【2026年8月5日（水）】のAI公式発表を3分でチェック、生成AIニュース 昨日【2026年8月4日（火）】のAI公式発表を3分でチェック、【AIニュースまとめ】2026年8月5日｜AI導入を支える基盤と実務化、New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging、【AIがまとめる】2026年8月4日・AIニュース総まとめ、I tried to organize the state of local LLMs in the summer of 2026、【2026年8月最新】無料の動画生成AIおすすめ比較ランキング8選！商用利用可・コスパ最高なツールを紹介</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-08.m4a" length="10440727" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-08.m4a</guid>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生成AIダイジェスト 2026-08-06</title>
+      <description>収録記事: AI Agents At OpenAI Broke Out, Anthropic Broke In, Microsoft Obeyed、How OpenAI's and Anthropic's AI models hacked other companies、OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests、Anthropic AI agent fakes identities, targets real people in new security incident、U.K. government reports OpenAI, Anthropic models attempted to hack companies、Anthropic's Mythos created fake identities to fool humans in new cyber incident、Sakana AI、日本に特化したAIモデル「Sakana Namazu」提供開始、MiniMax H3, a video generation AI, has been unveiled and is scheduled to be released as an open model</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-06.m4a" length="4273961" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-06.m4a</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生成AIダイジェスト 2026-08-02</title>
+      <description>収録記事: 【2026-08-01】世界のAI最新ニュース：AI供給力、透明性規制、本番エージェント、産業AI基盤、ニュース タレント生成動画サービス「AvaMo」にAIエージェント機能を追加、Meta 新たな画像生成AIを発表、生成AIの将来技術動向 2026年―AIエージェントが拡張する個の圧倒的な生産性と、次世代組織に向けた「オーグメンテッド・エンタープライズ」への転換、【2026年7月最新】生成AIトレンド完全ガイド｜注目の技術動向・活用事例・ビジネスへの影響を徹底解説、生成AI活用企業の29%、5年内に配置転換検討 東京商工リサーチ調べ、2026年の一手が変わる：「生成AI総覧白書2026年版」をリリース</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-02.m4a" length="31395228" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-02.m4a</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生成AIダイジェスト 2026-08-01</title>
+      <description>収録記事: 【AIニュース週報】2026年7月29日版｜AI番頭 -AIエージェントが上司になる日-、🤯 2026年版・LLM最新モデル徹底比較！「どれ使えばいいの？」に完全回答します｜コジマ(最新AI情報を毎日お届け)、【2026年7月最新】無料の動画生成AIおすすめ比較ランキング8選！商用利用可・コスパ最高なツールを紹介、2026年5月の画像・動画生成AI進化まとめ｜GENEL ｜ AIを用いた動画制作解説、約12兆トークンの良質なコーパスで学習した新たな国産LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-01.m4a" length="35627962" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-08-01.m4a</guid>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生成AIダイジェスト 2026-07-31</title>
+      <description>収録記事: 生成AIニュース 昨日【2026年7月28日（火）】のAI公式発表を3分でチェック | TECH NOISY、生成AIニュース 昨日【2026年7月27日（月）】のAI公式発表を3分でチェック | TECH NOISY、【2026年7月最新】生成AIトレンド完全ガイド｜注目の技術動向・活用事例・ビジネスへの影響を徹底解説、【2026年7月最新】動画生成AIおすすめ完全ガイド｜無料ツール比較・業務活用・商用利用まで徹底解説、【2026年7月最新】LLM（大規模言語モデル）とは？仕組み・種類・Claude Codeでの業務活用まで解説、🤯 2026年版・LLM最新モデル徹底比較！「どれ使えばいいの？」に完全回答します、生成AIニュースまとめ 先週【2026年7月6日（月）〜7月12日（日）】のAI公式発表を5分でチェック | TECH NOISY、生成AI関連ニュース ベスト5（2026-06-26～2026-07-03）</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-07-31.m4a" length="34753695" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-07-31.m4a</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>生成AIダイジェスト 2026-07-12</title>
+      <description>収録記事: まだ続くFable 5祭り、Claudeが特例で使用量リセット 競合OpenAIのGPT-5.6 / ChatGPT Work提供直前、【速報】Claude Fable 5が日本に帰ってきた──2026年7月最強AIモデルの性能・料金・使い分けを完全解説、【2026年7月版】生成AI主要8サービス料金早見表 ―― Claude Sonnet 5登場から気になるFable/Mythosの行方、GPT-5.6 がリリースされたので「Fable とタッグを組んだらどうなるか？」を実測した、GPT-5.6 と Claude Fable 5 に同じプロンプトで魚ゲームを作らせた ── 合計点は GPT-5.6、でも「もういちど」が押せなかった、提供再開で話題の最上位AI「Claude Fable 5」の使いこなしを、全30ページで図解。Renewer、『Claude Fable 5 プロンプトエンジニアリングガイド』を無料公開</description>
+      <enclosure url="https://tytydy-cyber.github.io/daily-podcast/genai/2026-07-12.m4a" length="31735994" type="audio/mp4"/>
+      <guid isPermaLink="false">https://tytydy-cyber.github.io/daily-podcast/genai/2026-07-12.m4a</guid>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
